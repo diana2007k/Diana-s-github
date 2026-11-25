@@ -1,13 +1,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,50:672D4F,100:B58A65&height=220&section=header&text=DIANA&fontSize=65&fontColor=F8E9DF&fontAlignY=38&desc=Beyond%20the%20Code.&descSize=18&descAlignY=58" width="100%"/>
+<table>
+<tr>
+<td align="center" bgcolor="#21152f">
+
+<br/>
+
+# 🩵 DIANA 💜
+
+### Beyond the Code.
+
+<sub>Where Creativity Meets Technology</sub>
+
+<br/>
+
+</td>
+</tr>
+</table>
+
+<img src="assets/coding-girl.gif" width="480" alt="Diana coding animation"/>
+
+<br/>
 
 ### Hi, I'm Diana! 👩🏻‍💻
 
 **Computer Engineering Student | Aspiring Developer**
 
 *Building ideas, one line of code at a time.*
+
+<br/>
 
 </div>
 
@@ -17,26 +39,47 @@
 
 - 🎓 Computer Engineering Student
 - 🐍 Currently learning Python
-- 💻 Exploring C++ and Data Structures
 - 🤖 Interested in Artificial Intelligence
+- 💻 Exploring Programming and Data Structures
 - 🌱 Learning something new every day
 - ✨ Turning curiosity into code
 
-## 💻 Tech Stack
+---
+
+## 🩵 My Tech Journey
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
-## 📊 GitHub Stats
+---
+
+## 💜 Current Focus
+
+- Learning Python Programming
+- Improving Problem Solving
+- Understanding Data Structures
+- Exploring Artificial Intelligence
+
+---
+
+## 🌙 A Little Quote
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diana2007k&show_icons=true&theme=tokyonight&hide_border=true&title_color=D6A77A&icon_color=C77D9B" width="48%"/>
+*"Code is not just about solving problems."*
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana2007k&layout=compact&theme=tokyonight&hide_border=true&title_color=D6A77A" width="48%"/>
+*"It's about creating possibilities."*
+
+<br/>
+
+🩵 **Keep Learning. Keep Creating.** 💜
 
 </div>
 
@@ -44,9 +87,7 @@
 
 <div align="center">
 
-*Currently learning. Always evolving.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,50:672D4F,100:B58A65&height=100&section=footer" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=8A2BE2&style=flat-square)
 
 </div>
 
