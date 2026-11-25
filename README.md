@@ -1,25 +1,52 @@
+
 <div align="center">
 
-# Diana's Digital Space
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,50:672D4F,100:B58A65&height=220&section=header&text=DIANA&fontSize=65&fontColor=F8E9DF&fontAlignY=38&desc=Beyond%20the%20Code.&descSize=18&descAlignY=58" width="100%"/>
 
-### Computer Engineering Student
+### Hi, I'm Diana! 👩🏻‍💻
 
-Learning Python | C++ | Data Structures
+**Computer Engineering Student | Aspiring Developer**
 
----
-
-<img src="YOUR-BANNER-IMAGE-LINK" width="100%">
+*Building ideas, one line of code at a time.*
 
 </div>
 
-## About Me
+---
+
+## 🥀 About Me
 
 - 🎓 Computer Engineering Student
-- 💻 Learning Python and C++
+- 🐍 Currently learning Python
+- 💻 Exploring C++ and Data Structures
 - 🤖 Interested in Artificial Intelligence
-- 🌱 Always learning something new
+- 🌱 Learning something new every day
+- ✨ Turning curiosity into code
 
-## My Skills
+## 💻 Tech Stack
 
-Python • C++ • Git • GitHub • VS Code
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=diana2007k&show_icons=true&theme=tokyonight&hide_border=true&title_color=D6A77A&icon_color=C77D9B" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diana2007k&layout=compact&theme=tokyonight&hide_border=true&title_color=D6A77A" width="48%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Currently learning. Always evolving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171321,50:672D4F,100:B58A65&height=100&section=footer" width="100%"/>
+
+</div>
 
